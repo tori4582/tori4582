@@ -1,9 +1,16 @@
 # `@tori4582` - Stefan Pham
+<p align="center">
+  <a href="https://linkedin.com/in/stefanpham">Linkedin</a> | 
+  <a href="https://leetcode.com/tori4582">LeetCode</a> | 
+  <a href="https://stefan.bitble.one">Portfolio</a>
+  <br><br>
+  <em style="font-family: serif">
+To me, programming is also a type of fine-art, craftmanship's art<br>
+and I am just an inconventional enjoyer of this art
+  </em>
+</p>
 
-[Linkedin](https://linkedin.com/in/stefanpham) | [Leetcode](https://leetcode.com/tori4582) | [Portfolio](https://stefan.bitble.one)
-
-To me, programming is also a type of fine-art, craftmanship's art
-
+[Typing on a keyboard is playing on a piano](https://github.com/user-attachments/assets/897255fa-12d7-418f-8cb5-becd765a79cf)
 
 
 ## Skill set
