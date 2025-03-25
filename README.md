@@ -6,11 +6,11 @@
   <br><br>
   <em style="font-family: serif">
 To me, programming is also a type of fine-art, craftmanship's art<br>
-and I am just an inconventional enjoyer of this art
+and I am just an unconventional enjoyer of this art
   </em>
 </p>
 
-[Typing on a keyboard is playing on a piano](https://github.com/user-attachments/assets/897255fa-12d7-418f-8cb5-becd765a79cf)
+[EineTastaturIstEinKlavier.webm](https://github.com/user-attachments/assets/2736f471-9517-4a33-942b-4a28b2474fca)
 
 
 ## Skill set
